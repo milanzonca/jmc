@@ -396,12 +396,6 @@ Moneylending gave Jews political leverage — but also made them vulnerable:
 | **Communal leadership** | Rabbinic families; no supra-communal hierarchy | Courtier-scholars (*nagid*, *nasi*); oligarchic communal councils |
 | **Relations with majority** | Sharper boundary; martyrdom ideal (*kiddush ha-Shem*) | Greater cultural integration; participation in courtly life |
 
-<v-click>
-
-- These are **tendencies, not absolutes** — significant internal diversity existed within each area
-
-</v-click>
-
 <!-- This table is deliberately simplified to give students a framework. Warn them it's a starting point, not a final word. -->
 
 ---
